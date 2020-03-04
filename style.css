@@ -1,0 +1,91 @@
+h1{
+    font-size: 50px;
+    color : orangered;   
+    text-decoration: underline solid red;
+    border : 5px solid orangered;
+    text-shadow:  3px 3px 1px black;
+    background-color: beige;
+    border-radius : 3px;
+}
+
+h2,h3{
+    font-size: 40px;
+    text-decoration: underline solid black;
+}
+
+body{
+    background-color: gainsboro;
+    
+}
+#block1{
+    width : 80%;
+    margin : 0 auto;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+    border-radius : 3px;
+    
+}
+#block4{
+    width : 80%;
+    margin : 0 auto;
+    background-image: url(contact.png);
+    text-align: center;
+    align-content: center;
+    border-radius : 3px;
+}
+
+#block2{
+    width :80%;
+    margin : 0 auto;
+    background-color: orange;
+    text-align: center;
+    border-radius : 3px;
+    
+}
+
+#block3{
+    width :80%;
+    margin : 0 auto;
+    background-color: cadetblue;
+    text-align: center;
+    border-radius : 3px;
+    
+}
+
+p,li {
+    list-style-type: none;
+    font-size: 15px;
+    
+}
+img{
+    border : 7px solid skyblue ;
+    border-radius : 3px;
+}
+
+html{
+    font-family:cursive
+}
+
+h4{
+   color : dimgray;
+   font-size: 30px;
+   text-decoration: underline solid dimgray ; 
+}
+.button{
+    font-size: 20px;
+    font-family: monospace;
+    border : none;
+    background-color: orange;
+    border-radius: 5px;
+    cursor : pointer;
+    padding : 10px;
+}
+
+.left{
+    float :left
+}
+
+.right{
+    float :right
+}
